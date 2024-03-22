@@ -27,4 +27,50 @@ We welcome contributions from developers of all levels! Follow these steps to co
 
    ```bash
    git clone https://github.com/your-username/book-tracking-app.git
+   ```
+
+### Creating a New Branch
+
+Create a new branch for your contribution:
+
+```bash
+git checkout -b feature/my-contribution
 ```
+
+### Submitting a Pull Request
+
+Once you've made your changes, push your branch to your forked repository:
+
+```bash
+git push origin feature/my-contribution
+```
+
+Then, navigate to your forked repository on GitHub and submit a pull request. Be sure to provide a clear description of your changes.
+
+## Getting Started with Next.js
+
+To get started with Next.js:
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Run the development server:
+
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## Social Links
+
+Stay connected with us:
+
+- [Twitter](https://twitter.com/booktrackingapp)
+- [Instagram](https://instagram.com/booktrackingapp)
+- [LinkedIn](https://linkedin.com/company/booktrackingapp)
+
+Feel free to reach out to us on social media for any questions or feedback! Happy contributing! 📚✨
