@@ -1,4 +1,4 @@
-# Book Tracking and Exploration Web App
+# Page Navigator
 
 Welcome to the Book Tracking and Exploration Web App repository! This project is built using Next.js, Tailwind CSS, and Shadcn UI. It provides a platform for users to track and explore books.
 
@@ -69,8 +69,7 @@ npm run dev
 
 Stay connected with us:
 
-- [Twitter](https://twitter.com/booktrackingapp)
-- [Instagram](https://instagram.com/booktrackingapp)
-- [LinkedIn](https://linkedin.com/company/booktrackingapp)
+- [Twitter](https://twitter.com/GrowWithTalha)
+- [LinkedIn](https://www.linkedin.com/in/growwithtalha1/)
 
 Feel free to reach out to us on social media for any questions or feedback! Happy contributing! 📚✨
